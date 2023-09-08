@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CivilGear/static/css/main.54ab7b6b.css",
+    "main.js": "/CivilGear/static/js/main.95819ca8.js",
+    "index.html": "/CivilGear/index.html",
+    "main.54ab7b6b.css.map": "/CivilGear/static/css/main.54ab7b6b.css.map",
+    "main.95819ca8.js.map": "/CivilGear/static/js/main.95819ca8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54ab7b6b.css",
+    "static/js/main.95819ca8.js"
+  ]
+}
