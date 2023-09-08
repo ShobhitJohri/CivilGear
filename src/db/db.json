@@ -1,0 +1,380 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Surveying Equipments"
+    },
+    {
+      "id": 2,
+      "title": "Tools"
+    },
+    {
+      "id": 3,
+      "title": "Drafting Equipments"
+    },
+    {
+      "id": 4,
+      "title": "Supplies"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "catId": 1,
+      "title": "Seco 90550 - Tri-Max Standard Quick Clamp Tripod",
+      "productCode": "BFFD3577",
+      "image": "seco-tripod.jpg",
+      "price": 328,
+      "sku": "577318",
+      "description": "Seco's revolutionary Tri-Max tripod, stands alone in meeting today's demanding stability requirements. In fact, tests have confirmed that the Tri-Max, in many cases, is more than 100 times more stable than conventional tripods, and retains this stability in use, without frequent adjustments, in the face of commonly encountered field conditions such as age, wind, fatigue, contamination, wear, temperature, moisture, and humidity. What is the direct result of the superior stability that exists in the Tri-Max? Significant increases in realized accuracy (closure) is not just possible, but common. Unparalled-no other tripod even approaches the Tri-Max's performance.",
+      "specs": {
+        "dimensions": "Extended Height: 71 inch and 5/8 x 11 Thread Size",
+        "weight": "16 lbs"
+      },
+      "features": [
+        "100 times more stable than conventional tripods",
+        "High Accuracy",
+        "Open leg design, which facilitates mounting of equipment bags, data collectors, batteries",
+        "Ergonomic Design"
+      ],
+      "stock": 20
+    },
+    {
+      "id": 2,
+      "catId": 1,
+      "title": "Seco 8365 Series Class 3 Safety Vest with Outlast Collar and Mesh Back",
+      "productCode": "CUL55S20",
+      "image": "jacket.jpg",
+      "price": 169,
+      "sku": "287494",
+      "description": "The Seco 8365 series class 3 safety vest with Outlast collar and mesh back is great for daytime and low-light use for workers who need maximum visibility. It's available in two colors and a wide variety of sizes. ",
+      "specs": {
+        "dimensions": "S, M, L, XL available"
+      },
+      "features": [
+        "Developed in conjunction with surveyors from the California department of transportation",
+        "Front is made of polyester for durability",
+        "Back and sleeves are made of polyester mesh for comfort and climate control",
+        "Padded collar made of Outlast Adaptive Comfort material to help regulate body temperatures"
+      ],
+      "stock": 10
+    },
+    {
+      "id": 3,
+      "catId": 1,
+      "title": "Seco 62 mm Standard Prism Assembly with 5.5inch x 7inch Target (3 Colors Available)",
+      "productCode": "KTLD60X20",
+      "image": "prism.gif",
+      "price": 161.99,
+      "sku": "287103",
+      "description": "The Seco 6402-10 prism assembly features a copper-coated canister type prism. It is waterproof and has a M20 universal mounting thread. The tilting holder is powder-painted die cast aluminum. It uses a simple but proven locking system. The prism can be mounted in either 0 or -30 mm offset positions. It's available with two target colors: orange with black and yellow with black",
+      "specs": {
+        "dimensions": "5.5 inch x 7inch, Tilting axis height — 115 mm"
+      },
+      "features": [
+        "A copper-coated canister type prism",
+        "waterproof and has a M20 universal mounting thread",
+        "The prism can be mounted in either 0 or -30 mm offset positions"
+      ],
+      "stock": 10
+    },
+    {
+      "id": 4,
+      "catId": 1,
+      "title": "Spectra Precision 2-Second Theodolite DET-2",
+      "productCode": "BLSD3577",
+      "image": "theodoloite.jpg",
+      "price": 1365,
+      "sku": "784324",
+      "description": "The Spectra Precision DET-2 digital electronic theodolite gives you accurate measurements in an affordable, versatile, easy to use platform.Offers dual displays and controls for easy accessibility and operation, very large backlit LCD characters for easy reading (also, reduces eye strain and chance for errors), and a host of features and parameters normally found on much higher priced instruments.A backup alkaline pack holding four standard AA batteries is also included.",
+      "specs": {
+        "dimensions": "6.4inch W x 6.1inch D x 13.4inch H"
+      },
+      "features": [
+        "Offers dual displays and controls for easy accessibility and operation, very large backlit LCD characters for easy reading",
+        "Operating costs are kept low with the included rechargeable battery pack and charger",
+        "Includes a built-in reticle illuminator that allows you to work inside buildings and other environments with little or no light, such as near dawn or dusk",
+        "Accurate enough for any job, yet the display resolution can be tailored to any operator’s preferences for fast readings"
+      ],
+      "stock": 5
+    },
+    {
+      "id": 5,
+      "catId": 1,
+      "title": "Topcon 24x Automatic Level AT-B4A 1012379-53",
+      "productCode": "ZRME38FW2",
+      "image": "automatic level.jpg",
+      "price": 310,
+      "sku": "670811",
+      "description": "The Topcon AT-B series sets a new standard for auto levels used in surveying, engineering and construction applications. The AT-B4A automatic level features further enhanced reliability under all environmental conditions. With the IPx6 rating, the instrument is protected against powerful water jets from all directions, making it fully resistant to driving rain and splashing water. The Topcon AT-B4A quickly levels and stabilizes the line of sight with its finely tuned magnetic damping system, in spite of any fine vibrations present when working near heavy equipment or busy highways.",
+      "specs": {
+        "dimensions": "100mm x 70mm x 80mm"
+      },
+      "features": [
+        "24X magnification",
+        "Waterproof to IPX6 rating",
+        "Short-focus(1.6 ft. min) magnetic damping",
+        "360-Degree Horizontal Circle",
+        "Slighting Guide",
+        "1:100 Stadia",
+        "5 Year Manufacturers Warranty"
+      ],
+      "stock": 5
+    },
+    {
+      "id": 51,
+      "catId": 2,
+      "title": "Calculated Industries Pipe Trades Pro Calculator 4095",
+      "productCode": "ZRME38FW2",
+      "image": "calculator.jpg",
+      "price": 75,
+      "sku": "670811",
+      "description": "Pipe trades pro (Calculated Industries 4095) is an advanced pipe trades math calculator that gives you instant answers for all pipe layout and design problems, including complex rolling offsets, parallel pipe cutbacks, weight/volume conversions, flow rates, pressures, areas and more. With the pipe trades pro users will spend less time calculating and looking at charts and more time cutting, welding and placing pipe. Calculations and features include right angles, offsets and complex rolling offsets fitting angles, bends, slopes percent grades, drops parallel pipe cutbacks feet-inch-fractions and trigonometry pipe areas, fill weights flow rates, velocity, force, volumes pressure loss for any pipe size, type or distance.",
+      "specs": {
+        "dimensions": "160 x 80 x 12 mm"
+      },
+      "features": [
+        "Full trigonometry and circular math functions",
+        "Solutions for slopes, cuts-backs, and take-outs",
+        "Internal pipe data chart Dimensional math",
+        "US and metric, decimal and fraction conversion",
+        "User preferences and auto shut-off Weather-resistant Armadillo Gear hard case"
+      ],
+      "stock": 5
+    },
+    {
+      "id": 52,
+      "catId": 2,
+      "title": "Leica Disto D2 Laser Distance Meter - 838725",
+      "productCode": "ZRME38FW2",
+      "image": "laser meter.jpg",
+      "price": 225,
+      "sku": "670811",
+      "description": "The Leica DISTO D2, with Bluetooth, is a fully integrated intelligent measuring tool with a bright white display and an ISO certified measuring engine that drives 1/16inch accuracy and 330 foot measuring range.The Leica DISTO D2 is a 7 measurement mode LDM accurate to 1/16 of an inch. It features an intuitive back-lit LCD display in a 4oz package that is small enough to fit in your pocket.",
+      "specs": {
+        "dimensions": "4.57 x 1.73 x 1.02 in"
+      },
+      "features": [
+        "Use Bluetooth to send measurements into apps running on mobile devices",
+        "The D2 measures from its base by default and can be configured to measure from the front",
+        "The D2 calculates area and volume, and remembers the last 10 measurements taken",
+        "Flip out the intelligent endpiece to 90º to hook onto outside corners or extend the endpiece fully for inside corners"
+      ],
+      "stock": 5
+    },
+    {
+      "id": 53,
+      "catId": 2,
+      "title": "Leica Trace Rod 50 for DA Signal Transmitter 850278",
+      "productCode": "ZRME38FW2",
+      "image": "cable.jpg",
+      "price": 999,
+      "sku": "670811",
+      "description": "Leica Trace Rod 50 for DA Signal Transmitter.The Trace Rod for Leica DA Signal Transmitter traces the route of non-metallic drains, ducts or pipes.",
+      "specs": {
+        "dimensions": "19.3in L x 17.3in W x 8.3in H"
+      },
+      "features": [
+        "Use together with the DA Signal Transmitter, DD100 Series Locator or DD200 Series Smart Locator",
+        "Detection range up to 10’",
+        "Detects non-metallic utilities with up to 4” diameter",
+        "Line Length: 165 ft"
+      ],
+      "stock": 5
+    },
+    {
+      "id": 54,
+      "catId": 2,
+      "title": "Jameson - Heavy Duty Illumination LED Equipment Lights",
+      "productCode": "ZRME38FW2",
+      "image": "light.jpg",
+      "price": 158,
+      "sku": "670811",
+      "description": "Jameson Heavy Duty Illumination LED Equipment Lights.",
+      "specs": {
+        "dimensions": "4.57 x 1.73 x 1.02 in"
+      },
+      "features": [
+        "Offers the brightness and durability required for the toughest jobs in utility, agriculture, construction, forestry, military and off-road applications.",
+        "Energy-efficient, long-life LEDs (rated at 50,000 hours)",
+        "High shock and vibration resistance of 10-500 Hz at 5 g",
+        "Reverse-voltage protection prevents damage to circuitry"
+      ],
+      "stock": 5
+    },
+    {
+      "id": 6,
+      "catId": 3,
+      "title": "Alumicolor - 30/60 Degree Triangle - 12 inch (5273-1)",
+      "productCode": "UE50TU7020KXXU",
+      "image": "triangle.jpg",
+      "price": 9,
+      "sku": "670811",
+      "description": "Alumicolor 12in 30/60 Degree Triangle",
+      "specs": {
+        "dimensions": "0.04in thick, size 12in"
+      },
+      "features": [
+        "Made of tempered aluminum",
+        "Photo anodized calibrations are a part of the finish and resist cleaning or rubbing off",
+        "Ultra smooth finish won't mark your work surface",
+        "Graduations in inches and centimeters",
+        "Packaging: Poly-sleeve bag with plastic hang tag",
+        "Color: Silver"
+      ],
+      "stock": 5
+    },
+    {
+      "id": 7,
+      "catId": 3,
+      "title": "Safco Height Adjustable Split Level Drafting Table 3965MO (Medium Oak)",
+      "productCode": "32LM6370PLA",
+      "image": "table.jpg",
+      "price": 523,
+      "sku": "657462",
+      "description": "Adjustable tilt workstation is perfect for drafting, tilting to a 50 degree horizontal. Attached adjustable height table tops are designed to keep your computer close at hand while offering space for supplies over head for easy access. Tri-adjustment offers the ultimate efficiency to accommodate personal working space. Allows you to truly make the most out of your working area. Tables can easily be lowered to serve as one flat working surface or raised to perform as a standing height workstation. Stop knocking items over, wasting space and moving back and forth from computer to paper. Split level workstation features a strong steel frame and wood grain melamine top. Ideal for a variety of end-users ranging from students and architects to engineers and designers. Table has a height adjustment of 26 to 37-1/4 in",
+      "specs": {
+        "dimensions": "47-1/4in W x 29-3/4in D x 26-37-1/4in H"
+      },
+      "features": [
+        "Desk Weight: 68 pounds",
+        "Desk Weight: 68 pounds",
+        "Top Shelf: 47-1/4in x 10in",
+        "Tilt Table Top: 31-1/2in x 19-3/4in",
+        "Simple Yet Sophisticated Design"
+      ],
+      "stock": 5
+    },
+    {
+      "id": 8,
+      "catId": 3,
+      "title": "Studio Designs 12022 - Swing Arm Lamp - Black- 13W CFL Bulb Included",
+      "productCode": "TX40JX800B",
+      "image": "lamp.jpg",
+      "price": 48,
+      "sku": "704803",
+      "description": "Modern and sophisticated, the Swing Arm Lamp complements any home or office set-up. The lamp’s flexible arm features steel springs and tension control knobs and can extend up to 36in. The clamp mounts easily to any Studio Designs table. The lamp is approved for a 100W or equivalent bulb and comes with a 13W CFL bulb. Available in high gloss Black or White finish.",
+      "specs": {
+        "dimensions": "6.5in W x 17in D x 36in H"
+      },
+      "features": [
+        "Flexible Arm Extends Up to 36in",
+        "High Gloss Finish",
+        "Steel Spring and Tension Control Knobs",
+        "Clamp Mounts Easily to All Studio Designs Tables",
+        "100 Watt Incandescent UL & CUL Approved",
+        "13 Watt CFL Bulb Included"
+      ],
+      "stock": 8
+    },
+    {
+      "id": 9,
+      "catId": 3,
+      "title": "Alumicolor - Standard Silver T-Square - 36 inch (2135-1)",
+      "productCode": "TX48JZ1000B",
+      "image": "T.jpg",
+      "price": 20,
+      "sku": "1199",
+      "description": "Alumicolor 36in Standard T-Square",
+      "specs": {
+        "dimensions": "36in"
+      },
+      "features": [
+        "1½ tempered aluminum shaft, which is calibrated in inches and centimeters.",
+        "Black ABS plastic heads are lightweight and nearly unbreakable",
+        "Heads are secured with 5 screws instead of rivets",
+        "Made in El Salvador",
+        "Assembled in the USA.",
+        "Color: Silver"
+      ],
+      "stock": 8
+    },
+    {
+      "id": 10,
+      "catId": 3,
+      "title": "SitePro Permanent Marker (12-Pack)",
+      "productCode": "UE75TU7020KXXU",
+      "image": "marker.jpg",
+      "price": 11,
+      "sku": "1200",
+      "description": "SitePro Permanent Marker (12-Pack)",
+      "specs": {
+        "dimensions": "6in"
+      },
+      "features": [
+        "The SitePro PM 220 Series is a six-inch durable-poly barrel permanent marker with dual tip design to maximize usage",
+        "Features heavy-duty chisel felt-tip and fine felt-tip on other end with reinforced nib construction",
+        "Works great for marking on wood, metal, and more",
+        "Fast drying with fade resistant non-toxic permanent ink",
+        "Marker lids secure easily to end of other lid cap",
+        "Sold in box of 12 markers each"
+      ],
+      "stock": 16
+    },
+    {
+      "id": 20,
+      "catId": 4,
+      "title": "Klein Tools - Hard Hat, Vented, Cap Style with Rechargeable Headlamp, White",
+      "productCode": "TX48JZ1000B",
+      "image": "hat.jpg",
+      "price": 55,
+      "sku": "1199",
+      "description": "Klein Tools Hard Hat, Vented, Cap Style with Rechargeable Headlamp, White",
+      "specs": {
+        "dimensions": "11.5in L x 6.5in H x 8.8in W"
+      },
+      "features": [
+        "Hat Style: Cap",
+        "Adjustable Vents",
+        "Suspension Adjustment: Ratchet with Pivot",
+        "Shell Lining: Padded, Sweat-wicking and Odor Resistant; Machine Washable",
+        "Accessory Slots: Front, Back, and Both Sides",
+        "Shell Color: White"
+      ],
+      "stock": 8
+    },
+    {
+      "id": 21,
+      "catId": 4,
+      "title": "Klein Tools - Thermal Dipped Gloves",
+      "productCode": "TX48JZ1000B",
+      "image": "gloves.jpg",
+      "price": 12,
+      "sku": "1199",
+      "description": "Klein Tools Thermal Dipped Gloves",
+      "specs": {
+        "dimensions": "L and XL"
+      },
+      "features": [
+        "Durable, high strength 1/8-inch wide stainless steel fish tapes are firm yet flexible for long runs and large wire pulls",
+        "Corrosion-resistant stainless steel tape extends the life of the tool",
+        "Case design decreases payout effort and friction by optimizing the tape payout angle",
+        "Slip-resistant housing geometry improves winding power and reduces binding",
+        "Multi-position handle gives you a firm, steady grip as you pull or rewind the tape",
+        "Polypropylene case and handle offer high impact resistance"
+      ],
+      "stock": 8
+    },
+    {
+      "id": 22,
+      "catId": 4,
+      "title": "SitePro Canon Camouflage Safety Glasses - Comfort 3-Point Fit",
+      "productCode": "TX48JZ1000B",
+      "image": "goggles.jpg",
+      "price": 19,
+      "sku": "1199",
+      "description": "The Canon safety glasses are designed to offer the best eye protection as well as a comfortable, stylish design. Soft, pliable TPR material on the temple tips and nose pads keep the glasses in place.",
+      "specs": {
+        "dimensions": "36in"
+      },
+      "features": [
+        "Camouflage style frames are conveniently lightweight with durable, comfortable straight temple design",
+        "Lenses are non-polarized smoke – better suited when reading LCD or GPS devices",
+        "Also available in polarized smoke lenses",
+        "Lenses are made with poly-carbonate to prevent scratching or fog up",
+        "Meets ANSI Z87.1+2010 safety standards for impact and projectile protection"
+      ],
+      "stock": 8
+    }
+  ]
+}
